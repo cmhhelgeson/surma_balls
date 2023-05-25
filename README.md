@@ -1,0 +1,1 @@
+Clone repository and use npm run dev to run on a WebGPU compatible browser/machine.
